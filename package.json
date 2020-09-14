@@ -1,0 +1,17 @@
+{
+    "name": "funbox",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Nikita Shamin",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^9.8.6",
+        "browser-sync": "^2.26.12",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1"
+    }
+}
